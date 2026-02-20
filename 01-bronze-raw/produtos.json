@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "nome": "Smartphone X100",
+    "categoria": "Eletrônicos",
+    "preco": 1899.99,
+    "marca": "TechMobile",
+    "descricao": "Smartphone com tela 6.5'' Full HD, 128GB, câmera tripla e bateria de longa duração.",
+    "quantidade_estoque": 25,
+    "avaliacao": 4.5,
+    "tags": ["celular", "android", "tecnologia", "mobile"]
+  },
+  {
+    "id": 2,
+    "nome": "Notebook UltraBook 15",
+    "categoria": "Informática",
+    "preco": 3999.90,
+    "marca": "NotePro",
+    "descricao": "Notebook leve, processador i7, 16GB RAM, SSD 512GB, ideal para trabalho e estudos.",
+    "quantidade_estoque": 12,
+    "avaliacao": 4.7,
+    "tags": ["laptop", "computador", "trabalho", "estudo"]
+  },
+  {
+    "id": 3,
+    "nome": "Cafeteira Elétrica Premium",
+    "categoria": "Eletrodomésticos",
+    "preco": 299.99,
+    "marca": "CaféTop",
+    "descricao": "Cafeteira elétrica com timer, capacidade para 30 xícaras e filtro permanente.",
+    "quantidade_estoque": 40,
+    "avaliacao": 4.2,
+    "tags": ["café", "cozinha", "eletrodoméstico", "manhã"]
+  },
+  {
+    "id": 4,
+    "nome": "Tênis Running Pro",
+    "categoria": "Esportes",
+    "preco": 349.90,
+    "marca": "RunFast",
+    "descricao": "Tênis esportivo leve, solado antiderrapante, ideal para corrida e caminhada.",
+    "quantidade_estoque": 60,
+    "avaliacao": 4.6,
+    "tags": ["corrida", "esporte", "fitness", "calçado"]
+  },
+  {
+    "id": 5,
+    "nome": "Fone de Ouvido Bluetooth",
+    "categoria": "Eletrônicos",
+    "preco": 199.90,
+    "marca": "SoundMax",
+    "descricao": "Fone sem fio com cancelamento de ruído, bateria de 20h e microfone integrado.",
+    "quantidade_estoque": 80,
+    "avaliacao": 4.4,
+    "tags": ["áudio", "bluetooth", "música", "fone"]
+  },
+  {
+    "id": 6,
+    "nome": "Liquidificador TurboMix",
+    "categoria": "Eletrodomésticos",
+    "preco": 159.99,
+    "marca": "MixHome",
+    "descricao": "Liquidificador potente, 5 velocidades, copo de 2L e lâminas inox.",
+    "quantidade_estoque": 35,
+    "avaliacao": 4.1,
+    "tags": ["cozinha", "liquidificador", "eletrodoméstico", "suco"]
+  },
+  {
+    "id": 7,
+    "nome": "Smart TV 50'' 4K",
+    "categoria": "Eletrônicos",
+    "preco": 2999.00,
+    "marca": "VisionTech",
+    "descricao": "Smart TV 50 polegadas, resolução 4K, Wi-Fi, apps de streaming e controle por voz.",
+    "quantidade_estoque": 18,
+    "avaliacao": 4.8,
+    "tags": ["tv", "4k", "streaming", "eletrônico"]
+  },
+  {
+    "id": 8,
+    "nome": "Bicicleta Mountain Bike",
+    "categoria": "Esportes",
+    "preco": 1899.90,
+    "marca": "BikePro",
+    "descricao": "Bicicleta aro 29, 21 marchas, quadro de alumínio, freio a disco.",
+    "quantidade_estoque": 10,
+    "avaliacao": 4.3,
+    "tags": ["bike", "esporte", "aventura", "ciclismo"]
+  },
+  {
+    "id": 9,
+    "nome": "Aspirador de Pó Vertical",
+    "categoria": "Eletrodomésticos",
+    "preco": 249.90,
+    "marca": "CleanHouse",
+    "descricao": "Aspirador vertical, filtro HEPA, 2 em 1, ideal para pisos e carpetes.",
+    "quantidade_estoque": 22,
+    "avaliacao": 4.0,
+    "tags": ["aspirador", "limpeza", "casa", "eletrodoméstico"]
+  },
+  {
+    "id": 10,
+    "nome": "Relógio Smartwatch Fit",
+    "categoria": "Acessórios",
+    "preco": 499.90,
+    "marca": "TimeWear",
+    "descricao": "Smartwatch com monitor cardíaco, GPS, notificações e pulseira de silicone.",
+    "quantidade_estoque": 50,
+    "avaliacao": 4.5,
+    "tags": ["relógio", "smartwatch", "fitness", "acessório"]
+  }
+]

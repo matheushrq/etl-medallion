@@ -1,0 +1,74 @@
+id,nome,email,telefone,cep,data_nascimento,genero,cep,logradouro,complemento,unidade,bairro,localidade,uf,estado,regiao,ibge,gia,ddd,siafi,erro
+1.0,Ana Paula Silva,ana.silva@email.com,11987654321.0,01001-000,1990-05-12,Feminino,01001-000,Praça da Sé,lado ímpar,,Sé,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107,
+2.0,Carlos Eduardo Souza,carlos.souza@email.com,21999887766.0,20040-010,1985-11-23,Masculino,20040-010,Avenida Presidente Vargas,até 309 - lado ímpar,,Centro,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001,
+3.0,Mariana Oliveira,mariana.oliveira@email.com,31988776655.0,30130-010,1992-07-08,Feminino,30130-010,Praça Sete de Setembro,,,Centro,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123,
+4.0,João Pedro Lima,joao.lima@email.com,41977665544.0,80010-000,1988-03-15,Masculino,80010-000,Rua José Loureiro,,,Centro,Curitiba,PR,Paraná,Sul,4106902,,41,7535,
+5.0,Fernanda Costa,fernanda.costa@email.com,51966554433.0,90010-320,1995-09-30,Feminino,90010-320,Rua Coronel Fernando Machado,lado par,,Centro Histórico,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801,
+6.0,Lucas Martins,lucas.martins@email.com,11912345678.0,01310-000,1991-01-10,Masculino,01310-000,Avenida Paulista,até 610 - lado par,,Bela Vista,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107,
+7.0,Patrícia Gomes,patricia.gomes@email.com,21923456789.0,20271-130,1987-04-22,Feminino,20271-130,Avenida Presidente Castelo Branco,,,Maracanã,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001,
+8.0,Rafael Almeida,rafael.almeida@email.com,31934567890.0,30140-110,1993-08-19,Masculino,30140-110,Rua Santa Rita Durão,até 249/250,,Funcionários,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123,
+9.0,Juliana Mendes,juliana.mendes@email.com,41945678901.0,80020-320,1996-12-05,Feminino,80020-320,Rua Marechal Deodoro,até 0765 - lado ímpar,,Centro,Curitiba,PR,Paraná,Sul,4106902,,41,7535,
+10.0,Bruno Rocha,bruno.rocha@email.com,51956789012.0,90020-120,1989-06-14,Masculino,90020-120,Rua Doutor Flores,até 306 - lado par,,Centro Histórico,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801,
+11.0,Camila Ferreira,camila.ferreira@email.com,11967890123.0,04001-001,1994-02-28,Feminino,04001-001,Rua Manuel da Nóbrega,de 302 a 520 - lado par,,Paraíso,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107,
+12.0,Felipe Barbosa,felipe.barbosa@email.com,21978901234.0,20510-000,1986-09-17,Masculino,20510-000,,,,,,,,,,,,,
+13.0,Larissa Pinto,larissa.pinto@email.com,31989012345.0,30150-170,1997-11-11,Feminino,,,,,,,,,,,,,,true
+14.0,Thiago Santos,thiago.santos@email.com,41990123456.0,80030-110,1992-03-03,Masculino,30150-170,Rua Brazópolis,,,Floresta,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123,
+15.0,Aline Souza,aline.souza@email.com,51901234567.0,90030-140,1990-10-20,Feminino,80030-110,Avenida Agostinho Leão Júnior,,,Centro,Curitiba,PR,Paraná,Sul,4106902,,41,7535,
+16.0,Eduardo Lima,eduardo.lima@email.com,11912340987.0,05001-100,1988-07-07,Masculino,90030-140,Avenida Alberto Bins,até 714 - lado par,,Centro Histórico,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801,
+17.0,Beatriz Ramos,beatriz.ramos@email.com,21923409876.0,21010-080,1995-05-25,Feminino,05001-100,Avenida Francisco Matarazzo,de 1073/1074 a 1699/1700,,Água Branca,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107,
+18.0,Gustavo Teixeira,gustavo.teixeira@email.com,31934509876.0,30160-011,1991-09-09,Masculino,21010-080,Rua Aguapé,,,Parada de Lucas,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001,
+19.0,Tatiane Lopes,tatiane.lopes@email.com,41945609876.0,80040-320,1993-12-30,Feminino,30160-011,Rua da Bahia,de 801/802 a 1229/1230,,Centro,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123,
+20.0,Pedro Henrique,pedro.henrique@email.com,51956709876.0,90040-120,1987-08-18,Masculino,80040-320,Rua Deputado Carneiro de Campos,,,Hugo Lange,Curitiba,PR,Paraná,Sul,4106902,,41,7535,
+21.0,Vanessa Dias,vanessa.dias@email.com,11967809876.0,06010-060,1996-01-15,Feminino,90040-120,Largo Doutor José Faibes Lubianca,,,Farroupilha,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801,
+22.0,Rodrigo Nunes,rodrigo.nunes@email.com,21978909876.0,23010-080,1989-04-04,Masculino,06010-060,Avenida Maria Campos,até 335/336,,Centro,Osasco,SP,São Paulo,Sudeste,3534401,4923,11,6789,
+23.0,Priscila Cardoso,priscila.cardoso@email.com,31989098765.0,30170-011,1992-02-22,Feminino,23010-080,Rua Primeiro de Março,,,Santíssimo,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001,
+24.0,André Souza,andre.souza@email.com,41990198765.0,80050-110,1990-06-06,Masculino,30170-011,Avenida Bias Fortes,de 281/282 a 579/580,,Lourdes,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123,
+25.0,Gabriela Castro,gabriela.castro@email.com,51901298765.0,90050-140,1994-12-12,Feminino,80050-110,,,,,,,,,,,,,
+26.0,Marcelo Vieira,marcelo.vieira@email.com,11912349876.0,07001-100,1986-03-13,Masculino,,,,,,,,,,,,,,true
+27.0,Renata Figueiredo,renata.figueiredo@email.com,21923498765.0,22010-080,1997-07-07,Feminino,90050-140,Rua Sofia Veloso,,,Cidade Baixa,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801,
+28.0,Leandro Pires,leandro.pires@email.com,31934598765.0,30180-011,1991-11-21,Masculino,07001-100,,,,,,,,,,,,,
+29.0,Amanda Duarte,amanda.duarte@email.com,41945698765.0,80060-320,1993-05-05,Feminino,,,,,,,,,,,,,,true
+30.0,Fábio Moreira,fabio.moreira@email.com,51956798765.0,90060-120,1988-10-10,Masculino,22010-080,,,,,,,,,,,,,
+31.0,Sabrina Reis,sabrina.reis@email.com,11967898765.0,08010-060,1995-03-03,Feminino,,,,,,,,,,,,,,true
+32.0,Vitor Matos,vitor.matos@email.com,21978998765.0,24010-080,1987-12-12,Masculino,30180-011,,,,,,,,,,,,,
+33.0,Patrícia Lima,patricia.lima@email.com,31989087654.0,30190-011,1996-06-06,Feminino,,,,,,,,,,,,,,true
+34.0,Ricardo Silva,ricardo.silva@email.com,41990187654.0,80070-110,1992-09-09,Masculino,80060-320,,,,,,,,,,,,,
+35.0,Débora Martins,debora.martins@email.com,51901287654.0,90070-140,1990-01-01,Feminino,,,,,,,,,,,,,,true
+36.0,Alexandre Costa,alexandre.costa@email.com,11912348765.0,09001-100,1989-05-05,Masculino,90060-120,,,,,,,,,,,,,
+37.0,Isabela Rocha,isabela.rocha@email.com,21923487654.0,25010-080,1994-08-08,Feminino,,,,,,,,,,,,,,true
+38.0,Fernando Barros,fernando.barros@email.com,31934587654.0,30200-011,1991-02-02,Masculino,08010-060,Rua Tenente Luís Fernando Lobo,,,São Miguel Paulista,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107,
+39.0,Letícia Nascimento,leticia.nascimento@email.com,41945687654.0,80080-320,1993-07-07,Feminino,24010-080,,,,,,,,,,,,,
+40.0,Diego Fernandes,diego.fernandes@email.com,51956787654.0,90080-120,1987-03-03,Masculino,,,,,,,,,,,,,,true
+41.0,Natália Ribeiro,natalia.ribeiro@email.com,11967887654.0,10010-060,1996-10-10,Feminino,30190-011,,,,,,,,,,,,,
+42.0,Henrique Batista,henrique.batista@email.com,21978987654.0,26010-080,1989-11-11,Masculino,,,,,,,,,,,,,,true
+43.0,Viviane Lopes,viviane.lopes@email.com,31989076543.0,30210-011,1992-04-04,Feminino,80070-110,,,,,,,,,,,,,
+44.0,Paulo César,paulo.cesar@email.com,41990176543.0,80090-110,1990-09-09,Masculino,,,,,,,,,,,,,,true
+45.0,Carolina Mendes,carolina.mendes@email.com,51901276543.0,90090-140,1994-05-05,Feminino,90070-140,,,,,,,,,,,,,
+46.0,Bruno Azevedo,bruno.azevedo@email.com,11912347654.0,11001-100,1988-12-12,Masculino,,,,,,,,,,,,,,true
+47.0,Elaine Farias,elaine.farias@email.com,21923476543.0,27010-080,1997-02-02,Feminino,09001-100,,,,,,,,,,,,,
+48.0,Sérgio Tavares,sergio.tavares@email.com,31934576543.0,30220-011,1991-06-06,Masculino,,,,,,,,,,,,,,true
+49.0,Michele Souza,michele.souza@email.com,41945676543.0,80100-320,1993-01-01,Feminino,25010-080,Rua Mariano Sendra dos Santos,,,Centro,Duque de Caxias,RJ,Rio de Janeiro,Sudeste,3301702,,21,5833,
+50.0,Anderson Melo,anderson.melo@email.com,51956776543.0,90100-120,1986-08-08,Masculino,30200-011,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,true
+,,,,,,,80080-320,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,true
+,,,,,,,90080-120,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,true
+,,,,,,,10010-060,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,true
+,,,,,,,26010-080,Rua Natal,,,Vila Santo Antônio,Nova Iguaçu,RJ,Rio de Janeiro,Sudeste,3303500,,21,5869,
+,,,,,,,30210-011,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,true
+,,,,,,,80090-110,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,true
+,,,,,,,90090-140,Rua Nossa Senhora da Boa Viagem,(Ilha da Pintada),,Arquipélago,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801,
+,,,,,,,11001-100,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,true
+,,,,,,,27010-080,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,true
+,,,,,,,30220-011,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,true
+,,,,,,,80100-320,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,true
+,,,,,,,90100-120,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,true
